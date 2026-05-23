@@ -10,13 +10,13 @@ Electrical Engineering student at the University of Hawaii at Manoa with experie
 
 ## Engineering Experience
 
-### Research Assistant — UH Linear Accelerator
+### Research Assistant | UH Linear Accelerator
 Worked with RF amplifiers, accelerator control systems, high-voltage conditioning, and beamline diagnostics.
 
-### Junior Electrical Engineer — CADE Engineers
+### Junior Electrical Engineer | CADE Engineers
 Supported electrical system design, AutoCAD drafting, and infrastructure-related engineering projects.
 
-### Team Lead — First Nations Launch Rocket Competition
+### Team Lead | First Nations Launch Rocket Competition
 Led a multidisciplinary engineering team responsible for rocket system integration, payload development, and technical presentations in a national engineering competition.
 
 ## Featured Projects
