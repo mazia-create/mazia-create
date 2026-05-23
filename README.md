@@ -1,16 +1,31 @@
-## Hi there 👋
+# Mikayla Azia Shankles
 
-<!--
-**mazia-create/mazia-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering student at the University of Hawaii at Manoa with experience in:
 
-Here are some ideas to get you started:
+- RF systems
+- Energy systems
+- Electrical infrastructure
+- Embedded systems
+- Technical research and testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### UH Campus Energy Optimization
+Analysis of campus smart meter data and battery integration simulations using Python and Jupyter Notebooks.
+
+### First Nations Launch Rocket Competition
+Team lead for the design, testing, and integration of a high-powered scientific research rocket.
+
+### NASA NCAS Mars Rover Project
+Contributed to rover navigation systems, subsystem testing, and sensor integration for a national engineering competition.
+
+### Energy-Generating Offshore Breakwater
+Conceptual renewable-energy shoreline infrastructure integrating wave-energy generation and coastal protection.
+
+## Technical Skills
+
+Python • MATLAB • AutoCAD • LTSpice • C/C++ • Arduino
+
+## Interests
+
+RF Engineering • Power Systems • Renewable Energy • Controls • Aerospace Systems • Infrastructure Engineering
