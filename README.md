@@ -8,8 +8,6 @@ Electrical Engineering student at the University of Hawaii at Manoa with experie
 - Energy systems
 - Technical research and testing
 
----
-
 ## Engineering Experience
 
 ### Research Assistant — UH Linear Accelerator
@@ -19,14 +17,12 @@ Worked with RF amplifiers, accelerator control systems, high-voltage conditionin
 Supported electrical system design, AutoCAD drafting, and infrastructure-related engineering projects.
 
 ### Team Lead — First Nations Launch Rocket Competition
-Led multidisciplinary engineering team responsible for rocket system integration, payload development, and technical presentations in a national engineering competition.
-
----
+Led a multidisciplinary engineering team responsible for rocket system integration, payload development, and technical presentations in a national engineering competition.
 
 ## Featured Projects
 
 ### ECE 474 Antennas Course Overview
-Interactive Streamlit website developed for antenna engineering coursework and technical visualization.
+Interactive Streamlit website developed for antenna engineering coursework and RF visualization.
 
 🔗 https://ece474antennascourseoverview-5r5gfsgehhmbf6tcjtxhdc.streamlit.app/
 
@@ -39,13 +35,9 @@ Contributed to rover navigation systems, subsystem testing, sensor integration, 
 ### Energy-Generating Offshore Breakwater
 Conceptual renewable-energy shoreline infrastructure integrating wave-energy generation and coastal protection.
 
----
-
 ## Technical Skills
 
 Python • MATLAB • AutoCAD • LTSpice • C/C++ • Arduino
-
----
 
 ## Interests
 
